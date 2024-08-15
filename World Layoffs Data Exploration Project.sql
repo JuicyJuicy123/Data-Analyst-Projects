@@ -1,5 +1,5 @@
 -- Data Exploration of World Layoffs
-
+Jevin
 SELECT *
 FROM layoffs_staging2;
 
